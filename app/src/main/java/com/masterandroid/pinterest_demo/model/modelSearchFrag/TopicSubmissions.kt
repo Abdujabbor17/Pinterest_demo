@@ -1,0 +1,3 @@
+package com.masterandroid.pinterest_demo.model.modelSearchFrag
+
+class TopicSubmissions
